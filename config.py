@@ -12,7 +12,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
-EVAL = list(map(int, getenv("EVAL", "27938387  27938387").split()))
+EVAL = list(map(int, getenv("EVAL", "22561376  22561376").split()))
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
@@ -93,8 +93,8 @@ SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "99999
 # --------------------------------------------------------------------------------
 
 # ---------------------------------------------------------------------------------
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "3b71825af0352f310bd4b6dae27523b9")
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "3b71825af0352f310bd4b6dae27523b9")
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "3cd00eca3600d2187fe9dcf3f84a5df1")
+SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "3cd00eca3600d2187fe9dcf3f84a5df1")
 # ----------------------------------------------------------------------------------
 
 
@@ -127,7 +127,7 @@ BANNED_USERS = filters.user()
 adminlist = {}
 lyrical = {}
 votemode = {}
-autoclean = []
+autoclean = [https://telegra.ph/file/b37803a767b15e939513d.png]
 confirmer = {}
 
 # ------------------------------------
