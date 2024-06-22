@@ -4,17 +4,17 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXMUSIC&theme=flag-india)
 
-[![GIF](https://github.com/DAXXTEAM/DAXXMUSIC/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
+[![GIF](https://github.com/Solankiroha/DAXXMUSIC2071IC/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
    [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
 
 
 
 
 
-GO TO [RELOAD.PY](https://github.com/DAXXTEAM/DAXXMUSIC/blob/Master/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/Solankiroha/DAXXhttps://github.com/Solankiroha/DAXXMUSIC2071.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4abd6e0f613946553de53.jpg">
+  <img src="https://telegra.ph/file/b37803a767b15e939513d.png">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ GO TO [RELOAD.PY](https://github.com/DAXXTEAM/DAXXMUSIC/blob/Master/DAXXMUSIC/pl
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=DAXXTEAM/DAXXMUSIC)](https://github.com/DAXXTEAM/DAXXMUSIC/graphs/contributors)
+[![Contributors](https://github.com/Solankiroha/DAXXMUSIC2071C)](https://github.com/Solankiroha/DAXXMUSIC2071/graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/gitwizardbypass"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
